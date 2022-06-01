@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://prueba:prueba@cluster0.emt7f2a.mongodb.net/?retryWrites=true&w=majority
+      database: ms-product
